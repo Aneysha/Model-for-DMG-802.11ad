@@ -1,1 +1,1 @@
-# Model-for-WAVE-802.11ad
+# Model-for-DMG-802.11ad
